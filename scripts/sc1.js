@@ -8,7 +8,7 @@ function add(a, b) {
 const r = add(2, 3);
 console.log(r);
 
-// -------------- Fonctionalite 1 ----------------
+// -------------- Fonctionalite 2 ----------------
 function soustraction(a, b) {
   return a - b;
 }
