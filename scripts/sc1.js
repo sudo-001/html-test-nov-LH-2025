@@ -7,3 +7,11 @@ function add(a, b) {
 
 const r = add(2, 3);
 console.log(r);
+
+// -------------- Fonctionalite 2 (modifiee) ----------------
+function soustraction(a, b) {
+  return a - b;
+}
+
+const r2 = soustraction(2, 3);
+console.log(r2);
