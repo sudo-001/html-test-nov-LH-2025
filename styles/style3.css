@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: small;
+}
+
+nav {
+    display: flex;
+    gap: 5px;
+}
+
+nav a {
+    color: gray;
+    text-decoration: none;
+}
+
+.first-link {
+    color: purple;
+    font-weight: bold;
+
+}
+
+.burger-container {
+    background-color: rgb(87, 40, 40);
+    border-radius: 100%;
+    padding: 2px;
+}
